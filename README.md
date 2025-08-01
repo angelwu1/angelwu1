@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi 👋
+
+### About Me
+- 🎓 **Education:** I'm a Junior studying Computer Science at Columbia University SEAS  
+- 💻 **Languages / Frameworks:** Python (NumPy, Pandas), Java, C, JavaScript, HTML, CSS, SQL, React  
+- 🌱 **Interests:** Currently learning AI, ML, Data Science with Breakthrough Tech. Aiming to develop fullstack skills and building projects.
+- 📫 **Reach Me At:** [aw3631@columbia.edu](mailto:aw3631@columbia.edu) • [LinkedIn](https://www.linkedin.com/in/angel-wu-) 
 
 <!--
 **angelwu1/angelwu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
