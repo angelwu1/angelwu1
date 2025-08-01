@@ -1,4 +1,4 @@
-## Hi 👋
+## Hi I'm Angel 👋
 
 ### About Me
 - 🎓 **Education:** I'm a Junior studying Computer Science at Columbia University SEAS  
